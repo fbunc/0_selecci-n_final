@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/1080p60/partial_movie_files/Lemniscata/2902699114_4054052574_223132457.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/1080p60/partial_movie_files/Lemniscata/3931933789_2779112374_885364693.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/1080p60/partial_movie_files/Lemniscata/3931933789_2540272385_143138479.mp4'

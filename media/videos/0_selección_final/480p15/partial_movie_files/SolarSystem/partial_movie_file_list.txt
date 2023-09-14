@@ -1,0 +1,10 @@
+# This file is used internally by FFMPEG.
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/SolarSystem/4266129954_1603103220_3388308403.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/SolarSystem/1442284246_3302640512_168167036.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/SolarSystem/1442284246_329969645_2272191235.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/SolarSystem/1442284246_1882296594_3743714538.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/SolarSystem/1442284246_3654870822_2301840227.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/SolarSystem/1442284246_329969645_2805333632.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/SolarSystem/1442284246_403078741_1143114135.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/SolarSystem/1442284246_2331997255_4241479581.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/SolarSystem/1442284246_2331997255_2166942402.mp4'

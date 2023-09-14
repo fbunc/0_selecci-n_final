@@ -1,0 +1,28 @@
+\documentclass[preview]{standalone}
+
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\begin{document}
+
+\begin{center}
+Es importante recordar que cuando  escribimos 
+
+$$e^{z}=e^{\alpha}\cdot e^{i\theta}$$ 
+
+estamos abusando de notación para representar una (auto)función,siendo $z  \in \mathbb{C}$ el argumento introducido en $exp(z)$ que está definida según su expansión en series de potencias. 
+
+$$z = \alpha + i\theta $$
+
+$$e^{z}=e^{\alpha+i\theta}=e^{\alpha}\cdot e^{i\theta}$$
+
+$$e^z=exp(z)=\sum_{n=0}^{\infty} \frac{z^n}{n!} = 1 + \frac{z}{1!} + \frac{z^2}{2!} + \frac{z^3}{3!} + \cdots$$
+
+
+$$e^{i\theta}= \sum_{n=0}^{\infty} \frac{(i \theta)^n}{n!} $$
+
+$$e^{i\theta}=\sum_{n=0}^{\infty} \left[ \left(-1\right)^n \frac{\theta^{2n}}{(2n)!} \right] + i \sum_{n=0}^{\infty} \left[ \left(-1\right)^n \frac{\theta^{2n+1}}{(2n+1)!} \right]$$
+\end{center}
+
+\end{document}

@@ -1,0 +1,31 @@
+\documentclass[preview]{standalone}
+
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+\begin{document}
+
+\begin{center}
+$$e^{z}=e^{\alpha+i\theta}=e^{\alpha}\cdot e^{i\theta}$$
+
+Si $z=i \theta$ al evaluar la serie de potencias vemos que equivale a sucesivas rotaciones de $90º$  que nos dejan con la verdadera máquina detrás de una expresión tan sencilla, que es: 
+
+$$e^{i\theta} = \sum_{n=0}^{\infty} \left[ \left(-1\right)^n \frac{\theta^{2n}}{(2n)!} \right] + i \sum_{n=0}^{\infty} \left[ \left(-1\right)^n \frac{\theta^{2n+1}}{(2n+1)!} \right]$$
+
+
+Notar como al evaluar la expansión en serie de potencias siempre obtenemos un ciclo mod 4  antihorario del tipo:
+
+$$1,i,-1,-i $$
+
+
+Lo que en Tau se suele escribir:
+
+$$\Theta^{\tau},\Theta^{\frac{\tau}{4}},\Theta^{\frac{\tau}{2}},\Theta^{\frac{3\tau}{4}}$$
+
+
+
+$$\Theta^{2\pi},\Theta^{\frac{\pi}{2}},\Theta^{\pi},\Theta^{\frac{3\pi}{2}}$$
+\end{center}
+
+\end{document}

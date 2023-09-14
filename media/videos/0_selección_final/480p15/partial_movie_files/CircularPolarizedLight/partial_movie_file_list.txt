@@ -1,0 +1,3 @@
+# This file is used internally by FFMPEG.
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/CircularPolarizedLight/2173882768_3127814718_223132457.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/CircularPolarizedLight/2335598466_957343386_696667104.mp4'

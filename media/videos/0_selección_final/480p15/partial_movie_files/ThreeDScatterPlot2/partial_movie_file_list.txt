@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/ThreeDScatterPlot2/3903429023_3676429024_3678480982.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/ThreeDScatterPlot2/2322458714_1464922028_4146132418.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/ThreeDScatterPlot2/2322458714_3837998516_2640737691.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/ThreeDScatterPlot2/2322458714_1072278508_3665835554.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/ThreeDScatterPlot2/2322458714_329969645_2177658990.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/ThreeDScatterPlot2/2322458714_738452326_747751785.mp4'
+file 'file:/media/phione/08cccfb8-6099-477e-b93d-881fdd91ff6b/FILES/CODING_2023/MATES_MIKE/0_selección_final/media/videos/0_selección_final/480p15/partial_movie_files/ThreeDScatterPlot2/2322458714_3837998516_1897116675.mp4'
